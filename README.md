@@ -1,9 +1,7 @@
-# Employee Directory
+# React Portfolio
 
-## An employee directory built with React. It allows the user to search for employees by their first name, sort employees by first name, and sort employees by age.
+## A personal portfolio page built with react. It contains a brief about me section, some examples of my work, my resume, and links to various methods of connecting with me.
 
-## Check the deployed application [here](https://proflonghair07.github.io/Employee_Directory/)
+## Check out the deployed application [here](https://proflonghair07.github.io/React_Portfolio)
 
-## ![](images/employee_directory.PNG)
-
-## ![](images/employee_directory.gif)
+## ![](images/portfolio.gif)
