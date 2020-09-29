@@ -39,6 +39,7 @@ export const projects = [
     img:
       "https://proflonghair07.github.io/Murphy_Vaughn_Portfolio/assets/images/Trivia_App_Screenshots/Log_In_Screenshot.PNG",
     deployed: "https://serene-inlet-83004.herokuapp.com/",
+    title: "Trivia App",
     description:
       "A multiple choice triva application that stores scores in a MySQL database. It allows user to sign up, create or join a team, and play a quiz of randomly generated questions. It saves individual and team high scores to the database.",
     repo: "https://github.com/proflonghair07/Project_2",
